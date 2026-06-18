@@ -4,7 +4,7 @@ Name: Juned Rashid Shaikh
 
 Education:B.Tech In AI & Data Science 
 
-Domain: Data Science 
+Domain: Data Science Intern
 
 Skils : Python,Excel, PowerBI, SQL, Problem Solving,Time Management, Critical Thinking, Teamwork.
 
