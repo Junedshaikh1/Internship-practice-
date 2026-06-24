@@ -1,12 +1,46 @@
-# Internship-practice-
+# Profile
 
-Name: Juned Rashid Shaikh 
+I am Juned Shaikh, a Final Year B.Tech student in Artificial Intelligence & Data Science. I am passionate about technology, problem-solving, and building innovative solutions using Artificial Intelligence, Machine Learning, and Data Science. I am eager to learn new technologies and apply my knowledge to real-world projects.
 
-Education:B.Tech In AI & Data Science 
+# Career Goal
 
-Domain: Data Science Intern
+My career goal is to start my professional journey as a Software Developer, Python Developer, Data Analyst, Data Scientist, or AI Engineer. I aim to continuously improve my technical skills, contribute to impactful projects, and grow into a skilled technology professional who creates innovative and data-driven solutions.
 
-Skils : Python,Excel, PowerBI, SQL, Problem Solving,Time Management, Critical Thinking, Teamwork.
+# Skills
 
-Career Goal : The Goal is to become  Successfull Data Scientist 
+## Programming Languages
 
+* Python
+* Java
+* SQL
+
+## Data Science & Machine Learning
+
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Data Analysis
+* Machine Learning
+
+## Web Development
+
+* HTML
+* CSS
+* JavaScript
+
+## Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+* Microsoft Excel
+
+## Soft Skills
+
+* Problem Solving
+* Teamwork
+* Communication
+* Quick Learning
+* Time Management
