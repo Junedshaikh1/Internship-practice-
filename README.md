@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Profile
 
 I am Juned Shaikh, a Final Year B.Tech student in Artificial Intelligence & Data Science. I am passionate about technology, problem-solving, and building innovative solutions using Artificial Intelligence, Machine Learning, and Data Science. I am eager to learn new technologies and apply my knowledge to real-world projects.
@@ -44,3 +45,6 @@ My career goal is to start my professional journey as a Software Developer, Pyth
 * Communication
 * Quick Learning
 * Time Management
+=======
+
+>>>>>>> 018a4528bd8781f5859a4cef68648944faeb4ab1
