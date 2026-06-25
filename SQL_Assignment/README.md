@@ -25,7 +25,7 @@ This assignment demonstrates fundamental SQL concepts using the **Employee** and
 
 ## Files Included
 
-* `SQL_Internship_Task.sql` – SQL script containing table creation, sample data, and all queries.
+* `SQL_Internship_Task.sql & SQL_Internship_Advancce_Task.sql` – SQL script containing table creation, sample data, and all queries.
 * Output screenshots for each query execution.
 * `README.md` – Documentation for the assignment.
 
