@@ -1,8 +1,8 @@
-\# BigMart Sales Data Cleaning and Exploratory Data Analysis (EDA)
+# BigMart Sales Data Cleaning and Exploratory Data Analysis (EDA)
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -10,107 +10,107 @@ Perform data cleaning using Pandas and Exploratory Data Analysis (EDA) on the Bi
 
 
 
-\## Dataset
+## Dataset
 
 
 
-\- Dataset Name: BigMart Sales Dataset
+- Dataset Name: BigMart Sales Dataset
 
-\- Source: Kaggle
-
-
-
-\## Tasks Performed
+- Source: Kaggle
 
 
 
-\### Data Cleaning
-
-\- Imported required libraries
-
-\- Loaded the dataset
-
-\- Displayed first and last records
-
-\- Checked dataset shape
-
-\- Displayed dataset information
-
-\- Checked column names and data types
-
-\- Generated statistical summary
-
-\- Identified missing values
-
-\- Removed duplicate records
-
-\- Filled missing values
-
-\- Standardized inconsistent categorical values
-
-\- Saved the cleaned dataset
+## Tasks Performed
 
 
 
-\### Exploratory Data Analysis (EDA)
+### Data Cleaning
 
-\- Distribution of Item Outlet Sales (Histogram)
+- Imported required libraries
 
-\- Average Sales by Item Type (Bar Chart)
+- Loaded the dataset
 
-\- Outlet Size Distribution (Pie Chart)
+- Displayed first and last records
 
-\- Item MRP vs Item Outlet Sales (Scatter Plot)
+- Checked dataset shape
 
-\- Correlation Heatmap
+- Displayed dataset information
 
+- Checked column names and data types
 
+- Generated statistical summary
 
-\## Libraries Used
+- Identified missing values
 
+- Removed duplicate records
 
+- Filled missing values
 
-\- Pandas
+- Standardized inconsistent categorical values
 
-\- NumPy
-
-\- Matplotlib
-
-\- Seaborn
-
-
-
-\## Files Included
+- Saved the cleaned dataset
 
 
 
-\- bigmart\_sales.csv
+### Exploratory Data Analysis (EDA)
 
-\- Cleaned\_BigMart\_Sales.csv
+- Distribution of Item Outlet Sales (Histogram)
 
-\- BigMart\_Data\_Cleaning\_EDA.ipynb
+- Average Sales by Item Type (Bar Chart)
 
-\- README.md
+- Outlet Size Distribution (Pie Chart)
+
+- Item MRP vs Item Outlet Sales (Scatter Plot)
+
+- Correlation Heatmap
 
 
 
-\## Learning Outcomes
+## Libraries Used
 
 
 
-\- Data cleaning using Pandas
+- Pandas
 
-\- Handling missing values
+- NumPy
 
-\- Removing duplicate records
+- Matplotlib
 
-\- Standardizing categorical values
+- Seaborn
 
-\- Saving cleaned datasets
 
-\- Performing Exploratory Data Analysis (EDA)
 
-\- Creating visualizations using Python
+## Files Included
 
-\- Interpreting insights from data
+
+
+- bigmart_sales.csv
+
+- Cleaned_BigMart_Sales.csv
+
+- BigMart_Data_Cleaning_EDA.ipynb
+
+- README.md
+
+
+
+## Learning Outcomes
+
+
+
+- Data cleaning using Pandas
+
+- Handling missing values
+
+- Removing duplicate records
+
+- Standardizing categorical values
+
+- Saving cleaned datasets
+
+- Performing Exploratory Data Analysis (EDA)
+
+- Creating visualizations using Python
+
+- Interpreting insights from data
 
